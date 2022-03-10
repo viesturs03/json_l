@@ -1,0 +1,56 @@
+[
+    {
+        "name":"Super_University",
+        "employees": [
+            {   
+                "name":"john",
+                "surname":"alorg",
+                "Contacts": [
+                    {
+                        "phone":121332322,
+                        "email":"bab@baba.com"
+                    }
+                ]
+            },
+            {
+                "name":"bab",
+                "surname":"sadg",
+                "Contacts": [
+                    {
+                        "phone":124352322,
+                        "email":"geg@baba.com"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name":"Rocket Startup",
+        "employees": [
+            {   
+                "name":"gran",
+                "surname":"berg",
+                "Contacts": [
+                    {
+                        "phone":1213462322,
+                        "email":"zeme@baba.com"
+                    }
+                ]
+            },
+            {
+                "name":"guy",
+                "surname":"name",
+                "Contacts": [
+                    {
+                        "phone":1246322,
+                        "email":"guy@baba.com"
+                    }
+                ]
+            }
+        ]
+    }
+
+
+
+
+]
